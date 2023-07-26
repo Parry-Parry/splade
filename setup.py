@@ -4,7 +4,7 @@ with open('README.md') as f:
     readme = f.read()
 
 setup(
-    name='SPLADE',
+    name='splade',
     version='2.1',
     description='SParse Lexical AnD Expansion Model for First Stage Ranking',
     url='https://github.com/naver/splade',
